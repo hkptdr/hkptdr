@@ -22,10 +22,8 @@
 
 ### Languages
 
-![TypeScript](https://camo.githubusercontent.com/9e98eab478e098342c2933b383b774088b092bff05174f33637fa6307253e8ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
 ![JavaScript](https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
 ![C++](https://img.shields.io/badge/C++-YOUR_COLOR_CODE?style=for-the-badge&logo=cplusplus&logoColor=white)
-[![Java](https://camo.githubusercontent.com/9e98eab478e098342c2933b383b774088b092bff05174f33637fa6307253e8ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)](https://www.java.com/)
 
 
 ### Front-End Development
@@ -40,12 +38,10 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Testing
 
@@ -57,17 +53,14 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-parmar-564b431b9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-patidar-a65351245/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravparmar775566@gmail.com)
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gourav222&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gourav222&show_icons=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hkptdr&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkptdr&show_icons=true&locale=en)
 
 ## Links
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-<COLOR>?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1nvZDL8f391dOHJ7xlp0xMf2YseSIpjwU/view?usp=sharing)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gouravparmar775566)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/gourav_222)
-[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gourav_222)
+[![Resume](https://img.shields.io/badge/Resume-PDF-<COLOR>?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1daSgFf4cM2qIxSQPg75tXX8DBd9RQGqO/view)
