@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Harshit Kumar Patidar, a Java Full Stack Web Developer specializing in React and Node. I earned my Bachelor of Technology degree in Computer Science and Engineering and graduated in July 2023.
+🎓 I am Harshit Kumar Patidar, a Full Stack Web Developer specializing in React and Node. I earned my Bachelor of Technology degree in Computer Science and Engineering and graduated in July 2023.
 
 👨‍💻 I completed an internship at Persistent through the Martian Internship program and also worked as a Trainee at Softwaves Technology.
 
